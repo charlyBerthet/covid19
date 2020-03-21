@@ -17,3 +17,5 @@ The template of the declaration use a json structure data that could be hosted o
 **How to contribute**
 
 Just create a clear PR 🙈
+
+Hasta luego ✌️
