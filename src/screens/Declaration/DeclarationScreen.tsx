@@ -153,7 +153,7 @@ const Component = (props: Props) => {
       <Title title={ isNew ? "Nouvelle Déclaration" : "Déclaration" } />
       {
         isNew ? null : (
-          <Text style={ styles.notEditable }>Cette déclaration à été signée et ne peut plus être modifiée.</Text>
+          <Text style={ styles.notEditable }>Cette déclaration a été signée et ne peut plus être modifiée.</Text>
         )
       }
 
