@@ -2,9 +2,11 @@
 
 Every french citizen has to print a paper each time they have to go out (eg: for shopping) while covid-19 quarantine 🦠. This mandatory, however this is not really eco-responsible ♻️. Why not digitalize this paper through a simple mobile application? This application is a unofficial version of the french derogation than can be built for iOS or Android thanks to React-Native.
 
-**Demo**
+**Demo** (<a href="https://github.com/charlyBerthet/covid19/raw/master/designs/screenshots/demo.mov" target="_blank">Download video here</a>)
 
 <img src="https://github.com/charlyBerthet/covid19/raw/master/designs/screenshots/demo.gif" width="250">
+
+
 
 **Create your declaration (screenshot)**
 
